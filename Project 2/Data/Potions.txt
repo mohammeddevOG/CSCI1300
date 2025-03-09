@@ -1,0 +1,9 @@
+Lesser Health Potion|Restore HP by 10|P|10|None|25
+Greater Health Potion|Restore HP by 25|P|25|None|50
+Lesser Stamina Potion|Restore stamina by 10|P|10|None|25
+Greater Stamina Potion|Restore stamina by 25|P|25|None|50
+Cleansing Potion|Cleanse player of either Disease or Poison|P|0|None|150
+Greater Rejuvenation Potion|Restore HP by 25 and stamina by 25|P|25|None|100
+Lesser Rejuvenation Potion|Restore HP by 10 and stamina by 10|P|10|None|50
+Minor Strength Potion|Permanently increase weapon damage by 2|P|2|None|50
+Major Strength Potion|Permanently increase weapon damage by 5|P|5|None|75
