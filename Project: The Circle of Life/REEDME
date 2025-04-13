@@ -1,5 +1,6 @@
-Compile: g++ -std=c++17 project2.cpp CPP/Entity.cpp CPP/Game.cpp CPP/Map.cpp -o Odyssey
-Run: ./Odyssey
+Compile: g++ -std=c++17GameDriver.cpp CPP/Character.cpp CPP/Game.cpp CPP/Board.cpp CPP/Player.cpp -o TCOL
+
+Run: ./TCOL
 
 ------------------------
 Game Files
@@ -16,7 +17,12 @@ Game Files
                            > Character.h
                            > Game.h
                            > Player.h
-
+                           > Events.h
+                           > Riddles.h
+                           > HelperFunctions.h
+                           > Tile.h
+                           > Loaders.h
+                           
 --> Data-------------------v
                            > characters.txt 
                            > creatuers.txt     
