@@ -1,0 +1,63 @@
+Compile: g++ -std=c++17 project2.cpp CPP/Entity.cpp CPP/Game.cpp CPP/Map.cpp -o Odyssey
+Run: ./Odyssey
+
+------------------------
+Game Files
+------------------------
+
+--> CPP--------------------v
+                           > Board.cpp
+                           > Character.cpp
+                           > Game.cpp
+                           > Player.cpp
+
+--> Headers----------------v
+                           > Board.h
+                           > Character.h
+                           > Game.h
+                           > Player.h
+
+--> Data-------------------v
+                           > characters.txt 
+                           > creatuers.txt     
+                           > riddles.tx  
+                           > random_events.txt
+
+------------------------
+Game Outputs
+------------------------
+--> Data/Game Data/---------V
+                            > GameStats.txt
+                            > RiddelsGiven.txt
+                            > EventsGiven.txt
+                            > PlayersStat.txt
+
+
+--> GameDriver.cpp // The driver file
+------------------------
+SUBMISSION INFORMATION
+------------------------
+CSCI1300 Fall 2025 Project 2
+Author: Mohammed Abdulrahman
+Date: April 13, 2025
+
+------------------------
+ABOUT THIS PROJECT
+------------------------
+The Circle of Life:
+is a text-based, 2-player board game in C++ that draws inspiration from Disney’s The Lion King.
+
+Players will journey across the African Savannah, each as a young lion eager to prove they’re ready to step up as the next “Pride Leader” after Simba’s retirement. Along the way, they’ll make strategic decisions, 
+face unexpected challenges, and collect Pride Points as they grow and refine their Leadership Traits—Stamina, Strength, 
+and Wisdom. Whether navigating tricky terrain or helping a fellow lion in need, each choice will shape their journey. 
+The player who earns the most Pride Points by demonstrating they have what it takes to guide the pride’s future will be chosen as the next `Pride Leader’, 
+ensuring the pride is thriving and keeping the circle of life moving forward!
+
+
+------------------------
+ABOUT ME
+------------------------
+
+I created this project to help me understand the basic of programming
+also I did it because I wanted to help people who trying to learn Porgogramming
+
