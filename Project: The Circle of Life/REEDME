@@ -1,7 +1,8 @@
 Compile: g++ -std=c++17GameDriver.cpp CPP/Character.cpp CPP/Game.cpp CPP/Board.cpp CPP/Player.cpp -o TCOL
-
 Run: ./TCOL
 
+OR
+make Than run by ./TCOL
 ------------------------
 Game Files
 ------------------------
